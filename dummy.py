@@ -13,7 +13,3 @@ def flatten_list(arr):
 
 result = flatten_list(nested_list)
 print(result)
-
-
-def func(*args):
-    pass
