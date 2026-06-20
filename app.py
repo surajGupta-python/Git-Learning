@@ -5,3 +5,6 @@ print(all_num)
 
 def greet():
     return "Welcome"
+
+def ssh_key():
+    return "done adding ssh key"
