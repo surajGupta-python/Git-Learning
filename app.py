@@ -16,3 +16,5 @@ def new_feature():
      print("new feature added")
      print("new feature added A")
 
+def feature_b():
+    return "new feat B"
