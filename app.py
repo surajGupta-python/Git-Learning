@@ -13,5 +13,6 @@ def ssh_key():
 
 
 def new_feature():
-    return "new feature added"
+     print("new feature added")
+     print("new feature added A")
 
